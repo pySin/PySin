@@ -1,7 +1,7 @@
 ### Hi there! I'm Sinan 👋
-```
-const sinan: Developer = {
-    `#ffffff`pronouns: "He" | "Him",
+```diff
+-const sinan: Developer = {
+    pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
         backEnd: ["Flask", "TKinter", "matplotlib],
