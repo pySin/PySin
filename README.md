@@ -1,6 +1,18 @@
 ### Hi there! I'm Sinan 👋
 
-- 🔭 I’m currently working on ...
+const sinan: Developer = {
+    pronouns: "He" | "Him",
+    code: ["Python"],
+    technologies: {
+        backEnd: ["Flask", "TKinter", "matplotlib],
+        frontEnd: ["Bootstrap", "CSS],
+        databases: ["MySQL", "SQLite", "Tableau"]
+    },
+    education: ["Software University of Sofia", "Technical University of Sofia"],
+    hobbies: ["Basketball", "Swimming", "Competitive Gaming"],
+    goal: "Contributing to Open Source projects"
+};
+
 <!--
 **pySin/PySin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
