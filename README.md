@@ -1,6 +1,7 @@
 ### Hi there! I'm Sinan 👋
 ```
 const sinan: Developer = {
+#### $\textcolor{green}{\textsf{Colors work}}$ 
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
