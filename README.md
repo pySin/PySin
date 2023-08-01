@@ -1,7 +1,7 @@
 ### Hi there! I'm Sinan 👋
 ```diff
 -const sinan: Developer = {
-    pronouns: "He" | "Him",
+    -pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
         backEnd: ["Flask", "TKinter", "matplotlib],
