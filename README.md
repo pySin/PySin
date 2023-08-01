@@ -1,6 +1,6 @@
 ### Hi there! I'm Sinan 👋
 ```
-<span style="color:red">const</span> sinan: Developer = {
+const sinan: Developer = {
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
