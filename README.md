@@ -1,7 +1,7 @@
 ### Hi there! I'm Sinan 👋
+#### $\textcolor{green}{\textsf{Colors work}}$
 ```
-const sinan: Developer = {
-#### $\textcolor{green}{\textsf{Colors work}}$ 
+const sinan: Developer = { 
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
