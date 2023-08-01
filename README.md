@@ -1,5 +1,5 @@
 ### Hi there! I'm Sinan 👋
-
+```
 <sub>const sinan: Developer = {
     pronouns: "He" | "Him",
     code: ["Python"],
@@ -12,7 +12,7 @@
     hobbies: ["Basketball", "Swimming", "Competitive Gaming"],
     goal: "Contributing to Open Source projects"
 };</sub>
-
+```
 <!--
 **pySin/PySin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
