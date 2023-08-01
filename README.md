@@ -1,5 +1,4 @@
 ### Hi there! I'm Sinan 👋
-#### $\textcolor{green}{\textsf{Colors work}}$
 ```
 const sinan: Developer = { 
     pronouns: "He" | "Him",
