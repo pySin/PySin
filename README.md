@@ -1,6 +1,6 @@
 ### Hi there! I'm Sinan 👋
 ```
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)const sinan: Developer = {
+const sinan: Developer = {
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
