@@ -8,9 +8,9 @@ const sinan: Developer = {
         frontEnd: ["Bootstrap", "CSS],
         databases: ["MySQL", "SQLite", "Tableau"]
     },
-    education: ["Software University of Sofia", "Technical University of Sofia"],
+    education: ["Software University of Sofia", "Sofia University"],
     hobbies: ["Basketball", "Swimming", "Competitive Gaming"],
-    goal: "Contributing to Open Source projects"
+    goal: "Contributing to meaningful projects"
 };
 ```
 <!--
