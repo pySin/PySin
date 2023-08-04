@@ -1,6 +1,6 @@
 ### Hi there! I'm Sinan 👋
 ```
-const sinan: Developer = { 
+CONST_NAME sinan: Developer = { 
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
