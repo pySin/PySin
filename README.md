@@ -1,11 +1,12 @@
 ### Hi there! I'm Sinan 👋
 ```
-CONST_NAME sinan: Developer = { 
+sinan: = {
+    craft: "Developer",
     pronouns: "He" | "Him",
     code: ["Python"],
     technologies: {
-        backEnd: ["Flask", "TKinter", "matplotlib],
-        frontEnd: ["Bootstrap", "CSS],
+        back_end: ["Flask", "TKinter", "matplotlib],
+        front_end: ["Bootstrap", "CSS],
         databases: ["MySQL", "SQLite", "Tableau"]
     },
     education: ["Software University of Sofia", "Sofia University"],
