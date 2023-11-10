@@ -4,7 +4,7 @@ sinan: = {
     craft: "Developer",
     pronouns: "He" | "Him",
     code: ["Python"],
-    technologies: {
+    technologies = {
         back_end: ["Flask", "TKinter", "matplotlib],
         front_end: ["Bootstrap", "CSS],
         databases: ["MySQL", "SQLite", "Tableau"]
